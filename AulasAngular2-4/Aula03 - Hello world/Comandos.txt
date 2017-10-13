@@ -1,6 +1,11 @@
 Comandos utilizados na Aula03
 ng new primeiro-projeto = esse comando serve para criar um projeto Angular, rodando esse comando, não só estará criando um projeto angular, como também o angular/cli estará criando toda a estrutura padrão do projeto automaticamente, e também irá instalar todos os pacotes do NPM necessário.
 
+ng serve = para rodar o projeto, para funcionar esse comando, você deverá estár dentro da pasta primeiro-projeto.
+
+para saber se está funcionando, basta entrar no seu navegador, e pesquizar esse link na sua barra de pesquiza: http://localhost:4200/
+
+
 
 
 
