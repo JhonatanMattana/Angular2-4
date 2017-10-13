@@ -5,6 +5,7 @@ ng serve = para rodar o projeto, para funcionar esse comando, você deverá estár 
 
 para saber se está funcionando, basta entrar no seu navegador, e pesquizar esse link na sua barra de pesquiza: http://localhost:4200/
 
+ng g c meu-primeiro2 = esse comando cria um coponent, g = gerar, c = component.
 
 
 
