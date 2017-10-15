@@ -7,6 +7,11 @@ para saber se está funcionando, basta entrar no seu navegador, e pesquizar esse 
 
 ng g c meu-primeiro2 = esse comando cria um coponent, g = gerar, c = component.
 
+--------------------------------------------------------------------------------------------------------------------------
+Aula05
+ng g m cursos = esse comando serve para criar um modulo.ts, o resultado será cursos.module.ts
+ng g c cursos/cursos-detalhe
+
 
 
 
